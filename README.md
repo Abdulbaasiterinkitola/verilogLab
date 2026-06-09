@@ -1,1 +1,1 @@
-# verilogLab
+# veriRISC CPU Design
